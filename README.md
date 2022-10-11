@@ -1,2 +1,2 @@
-# nti-ops
-Repozitář s úlohami na operační systémy
+# Operační systémy - NTI/OPS
+Autoři: Pavel Vácha & Jakub Šilhán
